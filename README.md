@@ -1,0 +1,2 @@
+# LearningHaskell
+ Haskell Programming exercises
